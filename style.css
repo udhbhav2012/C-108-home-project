@@ -1,0 +1,46 @@
+body
+{
+    background: yellowgreen;
+    font-family: cursive;
+}
+.header_div
+{
+  background: yellow;
+  color: black;
+  font-family: fantasy;
+}
+.header_div 
+{
+  font-family: monospace;
+  color: black;
+  letter-spacing: 2px;
+  font-size: 12px;
+  font-weight: bold;
+}
+.header_div p
+{
+    background-color: palevioletred;
+    font-family: fantasy;
+}
+.main_div button
+{
+    background-color: aqua;
+    color: black;
+    font-family: sans-serif;
+    margin-top: 30px;
+    width: 100;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    text-align: center;
+}
+.copy_right_footer
+{
+   position: fixed;
+   color: blue;
+   width: 100%;
+   background-color: orange;
+   font-size: 15px;
+   text-align: center;
+   line-height: 3;
+   text-shadow: black;
+}
